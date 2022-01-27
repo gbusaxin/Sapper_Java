@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Sapper Java</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="smile">☺</string>
+    <string name="flag">⛳</string>
+    <string name="mine">🔥</string>
+    <string name="default_value">000</string>
+
+</resources>
