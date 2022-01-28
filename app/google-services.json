@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "22507097544",
+    "project_id": "grishapps",
+    "storage_bucket": "grishapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22507097544:android:b2bd4aec04655c0b3f44fd",
+        "android_client_info": {
+          "package_name": "com.example.letsgetfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22507097544-4d94qtvbqji0p5abeedla9njrscmpabs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwEBW_pBozbDi9VzEDXmVdjSNzUMZias"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22507097544-4d94qtvbqji0p5abeedla9njrscmpabs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22507097544:android:a8cc740130c62c853f44fd",
+        "android_client_info": {
+          "package_name": "com.example.sapperjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22507097544-4d94qtvbqji0p5abeedla9njrscmpabs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwEBW_pBozbDi9VzEDXmVdjSNzUMZias"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22507097544-4d94qtvbqji0p5abeedla9njrscmpabs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

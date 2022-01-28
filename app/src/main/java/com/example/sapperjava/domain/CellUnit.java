@@ -1,5 +1,6 @@
 package com.example.sapperjava.domain;
 
+
 public class CellUnit {
     public static final int BOMB = -1;
     public static final int BLANK = 0;
